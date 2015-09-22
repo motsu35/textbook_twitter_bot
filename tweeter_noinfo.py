@@ -81,4 +81,4 @@ while True:
 	print "\n"
 	
         api.update_status(status=t)
-        time.sleep(50000)#43200 = 12 hr
+        time.sleep(43200)#43200 = 12 hr
